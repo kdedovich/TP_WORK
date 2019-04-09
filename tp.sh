@@ -1,6 +1,6 @@
 #!/bin/bash
-#git clone https://github.com/raspberrypi/tools.git
-#git clone https://github.com/akhtyamovpavel/PatternsCollection
+git clone https://github.com/raspberrypi/tools.git
+git clone https://github.com/akhtyamovpavel/PatternsCollection
 my_dir=$(pwd)
 compiller=${my_dir}/tools/arm-bcm2708/arm-linux-gnueabihf/bin
 sysroot=${my_dir}/tools/arm-bcm2708/arm-linux-gnueabihf/arm-linux-gnueabihf/sysroot
